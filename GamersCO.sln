@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamersCO", "GamersCO\GamersCO.csproj", "{E402BF0C-3976-450E-8D6B-72B773CBBF5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBHelper", "DBHelper\DBHelper.csproj", "{CE8E7003-33B3-44F7-A205-E1A2B066339B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Util", "Util\Util.csproj", "{0A960694-C61C-46A1-AD75-8D92A76888CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E402BF0C-3976-450E-8D6B-72B773CBBF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E402BF0C-3976-450E-8D6B-72B773CBBF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E402BF0C-3976-450E-8D6B-72B773CBBF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E402BF0C-3976-450E-8D6B-72B773CBBF5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE8E7003-33B3-44F7-A205-E1A2B066339B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8E7003-33B3-44F7-A205-E1A2B066339B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8E7003-33B3-44F7-A205-E1A2B066339B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8E7003-33B3-44F7-A205-E1A2B066339B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A960694-C61C-46A1-AD75-8D92A76888CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A960694-C61C-46A1-AD75-8D92A76888CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A960694-C61C-46A1-AD75-8D92A76888CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A960694-C61C-46A1-AD75-8D92A76888CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

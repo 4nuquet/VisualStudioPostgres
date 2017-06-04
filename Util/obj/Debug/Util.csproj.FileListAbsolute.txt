@@ -1,0 +1,5 @@
+D:\Proyects\C#\GamersCO\Util\bin\Debug\Util.dll
+D:\Proyects\C#\GamersCO\Util\bin\Debug\Util.pdb
+D:\Proyects\C#\GamersCO\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+D:\Proyects\C#\GamersCO\Util\obj\Debug\Util.dll
+D:\Proyects\C#\GamersCO\Util\obj\Debug\Util.pdb

@@ -1,0 +1,11 @@
+D:\Proyects\C#\GamersCO\DBHelper\bin\Debug\DBHelper.dll
+D:\Proyects\C#\GamersCO\DBHelper\bin\Debug\DBHelper.pdb
+D:\Proyects\C#\GamersCO\DBHelper\bin\Debug\Npgsql.dll
+D:\Proyects\C#\GamersCO\DBHelper\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Proyects\C#\GamersCO\DBHelper\bin\Debug\Npgsql.xml
+D:\Proyects\C#\GamersCO\DBHelper\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Proyects\C#\GamersCO\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+D:\Proyects\C#\GamersCO\DBHelper\obj\Debug\DBHelper.dll
+D:\Proyects\C#\GamersCO\DBHelper\obj\Debug\DBHelper.pdb
+D:\Proyects\C#\GamersCO\DBHelper\bin\Debug\Util.dll
+D:\Proyects\C#\GamersCO\DBHelper\bin\Debug\Util.pdb
